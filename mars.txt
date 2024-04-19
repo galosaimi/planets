@@ -1,4 +1,13 @@
 Vold or dry, but everything is my favorite my colour.
+<<<<<<< HEAD
+add thinfs
+=======
 We added a different line in the other copy
+<<<<<<< HEAD
 We removed the conflict on this line
+=======
+>>>>>>> 2bed1b4141068fa9d64bb0cc8537dda8e678c7f1
+
+asss
+>>>>>>> c13ff7339114ea2a25b227dc06c53e8bdb1b4f4e
 
