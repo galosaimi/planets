@@ -1,3 +1,9 @@
 Vold or dry, but everything is my favorite my colour.
+<<<<<<< HEAD
 add thinfs
+=======
+We added a different line in the other copy
+>>>>>>> 2bed1b4141068fa9d64bb0cc8537dda8e678c7f1
+
+asss
 
